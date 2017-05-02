@@ -1,8 +1,13 @@
-# Factorio Blueprints
+# Mining Blueprints
 
 This page contains blueprint strings for mining setups in Factorio.
 
-### Electric Miners - Yellow Belts - 4x2
+### 4 x 2
+
+* 20x yellow belts
+* 8x electric mining drills
+* 3x medium power poles
+* 1x lamp
 
 ![miners-yb-4x2](https://github.com/IronicBadger/factorio/blob/master/images/miners/miners-yb-4x2.PNG?raw=true)
 
